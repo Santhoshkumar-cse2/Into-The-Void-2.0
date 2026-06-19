@@ -1,0 +1,14 @@
+
+DESCRIPTION:
+            In 2147, the research vessel Acheron crossed the event horizon of a newly discovered black hole.
+
+            Just before communication was lost, a weak transmission was received.
+
+Researchers believe the signal has been:
+
+# Gravitationally redshifted
+# Time-reversed
+# Fragmented
+# Corrupted by cosmic radiation
+
+Your task is to recover the final message sent by the crew.
